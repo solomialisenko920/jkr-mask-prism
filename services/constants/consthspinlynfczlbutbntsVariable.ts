@@ -4,8 +4,7 @@ export const finhspinlynfczlbutbKey = "finehspinlynfczlbutbyKeyalUrl";
 
 export const LAST_hspinlynfczlbutbKEY = 'LastWehspinlynfczlbutbbViewUrl';
 
-// export const lihspinlynfczlbutbnk = 'F2DAB88D62E82330006B735DF6271E27939A720AFE9358EF';
-export const lihspinlynfczlbutbnk = '';
+export const lihspinlynfczlbutbnk = 'F2DAB88D62E82330006B735DF6271E27939A720AFE9358EF';
 
 export const STORAGE_hspinlynfczlbutbKEYS = {
 
